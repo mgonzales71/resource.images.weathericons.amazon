@@ -5,7 +5,7 @@
 		<import addon="kodi.resource" version="1.0.0"/>
 	</requires>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Amazon Weather Icons</summary>
+		<summary lang="en">Weather Icons - Amazon</summary>
 		<description lang="en">Weather Icons from Amazon Fire TV http://amazon.com</description>
 		<platform>all</platform>
 		<license>Creative Commons Attribution 3.0</license>
